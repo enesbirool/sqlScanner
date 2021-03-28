@@ -5,4 +5,4 @@
 </p>
 
 
-<b>Merhabalar</b>  <p></p>
+<b>Merhabalar</b>  <p>Kullanımı ; </p> <br> <p> python main.py -d inurl:.php?id= </p>
